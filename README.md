@@ -42,3 +42,9 @@ Designed for **MODICIA O.S.**, Debian-based GNU/Linux systems, and **Windows 11*
 - **Author**: Marco M. Mariani & MODICIA O.S. Development Team (`Marco M. Mariani for MODICIA O.S.`)
 - **Website**: [https://www.modiciaos.cloud](https://www.modiciaos.cloud)
 - **License**: GNU GPLv3 & Creative Commons Attribution 4.0 International (CC BY 4.0)
+<img width="1080" height="847" alt="Schermata del 2026-11-23 18-57-06" src="https://github.com/user-attachments/assets/93eaf027-d3bf-458b-8b8b-b376781739b8" />
+<img width="1080" height="847" alt="Schermata del 2026-11-23 18-56-56" src="https://github.com/user-attachments/assets/e10f253b-aef8-4049-9095-5a649c36b71c" />
+<img width="780" height="718" alt="Schermata del 2026-11-23 18-56-43" src="https://github.com/user-attachments/assets/428933cd-b33f-4190-aa5d-a6d4871b1261" />
+<img width="780" height="718" alt="Schermata del 2026-11-23 18-56-26" src="https://github.com/user-attachments/assets/8ae14cc7-89c0-4f8d-bf93-962dc85b2811" />
+<img width="780" height="718" alt="Schermata del 2026-11-23 18-56-11" src="https://github.com/user-attachments/assets/621e631f-947a-4cac-9cc0-3bd887a50dca" />
+<img width="1600" height="870" alt="Schermata del 2026-11-17 19-57-11" src="https://github.com/user-attachments/assets/0b7c6660-55e8-41bf-924b-3c83d66ab237" />
