@@ -1,13 +1,18 @@
 # MODICIA Backup
 
-Designed for **MODICIA O.S.** and Debian-based GNU/Linux systems, **MODICIA Backup** is a dedicated tool engineered to do one thing right: safely backing up and restoring a folder from a disk to an external storage device (USB, SSD, HDD) or another folder, and vice versa, eliminating the risk of data corruption or filename incompatibility.
+Designed for **MODICIA O.S.**, Debian-based GNU/Linux systems, and **Windows 11**, **MODICIA Backup** is a cross-platform tool engineered to do one thing right: safely backing up and restoring a folder from a disk to an external storage device (USB, SSD, HDD) or another folder, and vice versa, eliminating the risk of data corruption or filename incompatibility.
+
+## Supported Platforms
+
+- **MODICIA O.S.** & Debian-based GNU/Linux distributions (`.deb`, `.AppImage`)
+- **Windows 11** (`.exe`, `.msi`)
 
 ## Key Features
 
-- **Safe `.7z` Encapsulation**: Compresses (or encapsulates uncompressed by default using `-mx=0`) files while preserving unusual filenames, special characters (`?`, `:`, `<`, `>`, `|`, `"`), spaces, and symbolic links that would otherwise fail during transfers to FAT32, exFAT, or NTFS drives.
+- **Safe `.7z` Encapsulation**: Compresses (or encapsulates uncompressed by default using `-mx=0`) files while preserving unusual filenames, special characters (`?`, `:`, `<`, `>`, `|`, `"`), spaces, and symbolic links that would otherwise fail during cross-platform transfers across FAT32, exFAT, NTFS, or ext4 drives.
 - **2-Step Process with Dual Progress Bars**:
   1. **Action 1/2 (Compression)**: Creates the `.7z` archive with selectable compression levels and optional **AES-256** password protection (including filename encryption).
-  2. **Action 2/2 (Saving & Bit-by-Bit Verification)**: Transfers the archive to the final destination, forces hardware buffer flushing (`fsync` / `sync`), and performs a full read-back from the disk.
+  2. **Action 2/2 (Saving & Bit-by-Bit Verification)**: Transfers the archive to the final destination, forces hardware buffer flushing (`fsync` / `sync` on Linux, native OS write flush on Windows 11), and performs a full read-back from the disk.
 - **Guaranteed Safe Removal**: The application reports the backup as complete only when the file is physically written to the external drive and verified bit-for-bit (**SHA-256**).
 
 ---
