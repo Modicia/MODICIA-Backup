@@ -47,4 +47,3 @@ Designed for **MODICIA O.S.**, Debian-based GNU/Linux systems, and **Windows 11*
 <img width="780" height="718" alt="Schermata del 2026-11-23 18-56-43" src="https://github.com/user-attachments/assets/428933cd-b33f-4190-aa5d-a6d4871b1261" />
 <img width="780" height="718" alt="Schermata del 2026-11-23 18-56-26" src="https://github.com/user-attachments/assets/8ae14cc7-89c0-4f8d-bf93-962dc85b2811" />
 <img width="780" height="718" alt="Schermata del 2026-11-23 18-56-11" src="https://github.com/user-attachments/assets/621e631f-947a-4cac-9cc0-3bd887a50dca" />
-<img width="1600" height="870" alt="Schermata del 2026-11-17 19-57-11" src="https://github.com/user-attachments/assets/0b7c6660-55e8-41bf-924b-3c83d66ab237" />
