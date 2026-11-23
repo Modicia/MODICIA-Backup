@@ -21,7 +21,8 @@ Designed for **MODICIA O.S.**, Debian-based GNU/Linux systems, and **Windows 11*
 
 ### 1. How to Perform a Safe Backup
 
-1. Select the **Source Folder** to back up by clicking **BROWSE SOURCE** (or by dragging and dropping it into the window).
+1. Select the **Source Folder** to back up by clicking **BROWSE SOURCE** (or by dragging and dropp<img width="640" height="360" alt="backup" src="https://github.com/user-attachments/assets/e4de9a6c-1f10-4498-ae51-3472291fee60" />
+ing it into the window).
 2. Select the **Final Destination** by clicking **BROWSE DESTINATION**, or pick your USB drive directly from the **External Media / Detected Drives** menu.
 3. Use the **⇄ SWAP SOURCE / DESTINATION** button to switch the two folders on the fly.
 4. Choose the **Compression Type**: set to **No Compression (`-mx=0`)** by default for maximum speed and reliability, with **Fast**, **Normal**, **Maximum**, and **Ultra** also available.
